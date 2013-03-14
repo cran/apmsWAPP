@@ -1,0 +1,7 @@
+ctrl1	ctrl	C
+ctrl2	ctrl	C
+ctrl3	ctrl	C
+bait1	bait	T
+bait2	bait	T
+bait3	bait	T
+

@@ -1,0 +1,11 @@
+
+import (genefilter)
+import (seqinr)
+import (multtest)
+import (gtools)
+import (edgeR)
+importFrom (aroma.light, normalizeQuantileRank)
+import (DESeq)
+importFrom( Biobase, rowQ )
+
+exportPattern("^[[:alpha:]]+")
